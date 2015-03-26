@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Support Drupal's password encryption algorithms.  Most useful for users imported from a Drupal website.  Or simply for more secure password encryption.
+Support Drupal's password encryption algorithms. Most useful for users imported from a Drupal website. Or simply for more secure password encryption.
 
 == Description ==
 
